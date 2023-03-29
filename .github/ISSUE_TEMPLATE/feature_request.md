@@ -10,10 +10,10 @@ assignees: ''
 ## Delivery Stage
 
 - [ ] Initial proposal
-- [ ] Agree high level specification, broken into estimatable parts
-- [ ] Initial dev estimates & budgets
+- [ ] Agree implementation proposal
+- [ ] Estimating
 - [ ] Funding Confirmed
-- [ ] Ready for delivery
+- [ ] Delivered
 
 <!-- For Instance Managers and Support teams - Fill in sections 1-4 -->
 <!-- Sections 5 onwards to be filled in by Delivery folks -->
@@ -33,3 +33,5 @@ e.g. - Chats in Slack, Discourse etc
 
 ## 6. Estimates and funding partners
 e.g. Number of dev days. Note contributing instances/partners.
+
+## 7. Link to Workflows, User Guide etc
