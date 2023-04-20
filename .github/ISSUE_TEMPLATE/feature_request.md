@@ -35,3 +35,5 @@ e.g. - Chats in Slack, Discourse etc
 e.g. Number of dev days. Note contributing instances/partners.
 
 ## 7. Link to Workflows, User Guide etc
+
+## 8. Notes and Workings
